@@ -1,0 +1,23 @@
+{
+  "name": "katas-js",
+  "version": "0.0.1",
+  "description": "JavaScript Katas",
+  "main": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holhar/katas-js.git"
+  },
+  "author": "Holger Harms",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/holhar/katas-js/issues"
+  },
+  "homepage": "https://github.com/holhar/katas-js#readme",
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "jest-cli": "^29.3.1"
+  }
+}
